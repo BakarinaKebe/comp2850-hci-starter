@@ -21,14 +21,13 @@
     <div id="status" role="status" aria-live="polite" aria-atomic="true"></div>
 
     <header>
-        <nav>
+        <nav aria-label="Main navigation">
             <ul>
                 <li><strong>COMP2850 Task Manager</strong></li>
             </ul>
             <ul>
                 <li><a href="/tasks">Tasks</a></li>
                 <li><a href="/health">Health</a></li>
-                <li><a href="/tasks" aria-label="Tasks">Tasks</a></li>
             </ul>
         </nav>
     </header>
@@ -46,8 +45,7 @@
             <small>
                 COMP2850 HCI &bull; Server-first architecture &bull;
                 <a href="https://htmx.org/docs/" target="_blank" rel="noopener">HTMX Docs</a> &bull;
-                <a href="https://www.w3.org/WAI/WCAG22/quickref/" target="_blank" rel="noopener">WCAG 2.2</a> &bull;
-                <a href="https://www.w3.org/WAI/WCAG22/quickref/" target="_blank" rel="noopener">Click here</a>
+                <a href="https://www.w3.org/WAI/WCAG22/quickref/" target="_blank" rel="noopener">WCAG 2.2</a>
             </small>
         </p>
         <p>
