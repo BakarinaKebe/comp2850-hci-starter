@@ -2,8 +2,8 @@
 
 **Module**: COMP2850 Human-Computer Interaction
 **Activity**: Low-risk needs-finding (peer interviews)
-**Date**: [YYYY-MM-DD]
-**Researcher**: [Your Name/Student ID]
+**Date**: 2025-12-02
+**Researcher**: Bakarina Kebe
 
 ---
 
@@ -50,16 +50,16 @@ Before starting, I will ask:
 - [ ] Do you consent to participate?
 
 **Verbal consent is sufficient** for this low-risk activity. If you say "yes", I'll note:
-- Date/time: [YYYY-MM-DD HH:MM]
-- Pseudonym assigned: [e.g., "Participant A"]
-- Consent confirmed: [Initials]
+- Date/time: 2025-12-02 HH:MM
+- Pseudonym assigned: "Participant A"
+- Consent confirmed: PA
 
 ---
 
 ## Opt-Out Process
 
 If you change your mind after the interview:
-1. Email me at [your-university-email]
+1. Email me at pssm9913@leeds.ac.uk
 2. Include: interview date and pseudonym (if you remember it)
 3. I will delete all notes related to your session within 48 hours
 4. I will confirm deletion via email
@@ -68,8 +68,8 @@ If you change your mind after the interview:
 
 ## Contact
 
-**Researcher**: [Your Name], [your-email@leeds.ac.uk]
-**Module Lead**: Dr. [Name], [module-email]
+**Researcher**: Bakarina Kebe, pssm9913@leeds.ac.uk
+**Module Lead**: Amy Brereton, a.m.brereton@leeds.ac.uk
 **University Ethics**: Research Ethics, ethics@leeds.ac.uk
 
 ---
