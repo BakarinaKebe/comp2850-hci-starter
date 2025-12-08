@@ -1,14 +1,13 @@
 # Job Stories — Week 6 Needs-Finding
 
 ## Story S1: Filter Persistence
-**Situation**: When I'm filtering tasks by project tag (e.g., "COMP2850")
-**Motivation**: I want the filter selection to persist across page reloads
-**Outcome**: So I can pick up where I left off without re-selecting the filter
-**Underlying need**: Because re-filtering 10+ times per session creates cognitive overload and wastes time
-
-**Evidence**: Participant A (notes L5), Participant B (notes L3)
-**Inclusion risk**: Cognitive, memory impairment, ADHD
-**Type**: Job story (situation-specific)
+**Situation**: When I read the task lists I have created
+**Motivation**: I want to be able to read what I have written.
+**Outcome**: so that I don't misinterpret it or accidentally edit it later.
+**Underlying need**: Because the tasks I note down are ones of high priority and it is frustrating if I miss out on completeing them.
+**Evidence**: Particiapnt A (notes L22)
+**Inclusion risk**: Sight impairment, lack of contrast within the application
+**Type**: Job story
 
 ---
 

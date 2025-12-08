@@ -50,9 +50,9 @@ Before starting, I will ask:
 - [ ] Do you consent to participate?
 
 **Verbal consent is sufficient** for this low-risk activity. If you say "yes", I'll note:
-- Date/time: 2025-12-08 10:14
-- Pseudonym assigned: "Participant A"
-- Consent confirmed: PA
+- Date/time: 2025-12-08 15:55
+- Pseudonym assigned: "Participant B"
+- Consent confirmed: PB
 
 ---
 
