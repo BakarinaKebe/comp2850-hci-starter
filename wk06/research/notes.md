@@ -2,7 +2,7 @@
 
 ## Participant A
 **Date**: 2025-12-08 10:15
-**Context**: Difficuly balancing work and home life, parially sighted.
+**Context**: Difficuly balancing work and home life, partially sighted.
 **Consent**: ✅ Confirmed verbally
 **Duration**: [~10 minutes]
 
