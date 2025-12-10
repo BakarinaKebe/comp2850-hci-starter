@@ -1,11 +1,11 @@
 # Job Stories — Week 6 Needs-Finding
 
 ## Story S1: Filter Persistence
-**Situation**: When I read the task lists I have created
-**Motivation**: I want to be able to read what I have written.
-**Outcome**: so that I don't misinterpret it or accidentally edit it later.
-**Underlying need**: Because the tasks I note down are ones of high priority and it is frustrating if I miss out on completeing them.
-**Evidence**: Particiapnt A (notes L22)
+**Situation**: When I am using a task manager app in bright sunlight
+**Motivation**: I want it to be able to adjust itself to appropriate settings for my situation
+**Outcome**: so that I don't have to waste time doing it myself 
+**Underlying need**: because it can be frustrating to do manually.
+**Evidence**: Particiapnt A (notes L58)
 **Inclusion risk**: Sight impairment, lack of contrast within the application
 **Type**: Job story
 

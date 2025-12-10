@@ -79,5 +79,5 @@
 2. Lack of timeliness → missing important deadlines
 
 **Job story ideas**:
-- "When I complete a task and cross it off on a list, I want the item to disappear so that I can reassure myself that my workload is smaller."
-- "When I have important deadlines coming up, I want to be able to keep track of them so that I don't receive any penalties."
+- "When I complete a task and cross it off on a list, I want the item to disappear so that I can reassure myself that my workload is smaller because it will make feel anxious about the workload otherwise."
+- "When I have important deadlines coming up, I want to be able to keep track of them so that I don't receive any penalties because it will have a huge negative effect in me academically."

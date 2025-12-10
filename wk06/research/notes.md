@@ -86,7 +86,7 @@
 4. Contrast issues in bright light → situational disability
 
 **Job story ideas**:
-- "When I am using a task manager app in bright sunlight, I want it to be able to adjust itself to appropriate settings for my situation."
-- "When I work without a mouse, I want accessibilty friendly shortcuts to reduce my frustrations."
+- "When I am using a task manager app in bright sunlight, I want it to be able to adjust itself to appropriate settings for my situation so that I don't have to waste time doing it myself because it can be frustrating to do manually."
+- "When I work without a mouse, I want accessibilty friendly shortcuts so that I can be less stressed while working because it makes my task a lot easier to complete."
 
 ## This interview was conducted with the AI conversation bot provided on Minerva.
