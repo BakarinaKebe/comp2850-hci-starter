@@ -1,1 +1,7 @@
 id,title,story_ref,story_type,need,type,severity,inclusion_risk,evidence,notes,candidate_fix
+1,Usage in bright sunlight,stories.md#S1,Job story,Automatic adjustment to the outdoor brightness,Visibility,Medium,"SR,Low vision,Colour-blind","PA notes L58; WCAG 1.4.3",Increase the contrast on screen when in bright weather,false
+2,Usage without a mouse,stories.md#S2,Job story,Accessibility friendly shortcuts when mouse isn't available,Accessibility,High,"SR,Keyboard,Cognitive","PA notes L46; PB notes L43; WCAG 2.1.1; WCAG 2.1.3",Provide shortcuts that don't feel inconvenient to use,false
+3,Completing a task on the list,stories.md#S3,Job story,Making a task disappear once it is marked as complete,Usability,Low,"SR,Cognitive","PB notes L21;PB notes L66",Needs to provide a sense of completion to minimise anxiety,false
+4,Academic organisation,stories.md#S4,Job story,Keeping track of high priority tasks added to list,Usability,Low,"SR,Cognitive","PB notes L10; PB notes L32",Need for design that puts emphasis on tasks' importance,false
+5,Progress visualisation,stories.md#S5,Job story,Finding a task that was added to the list quickly and easily,Visibility,Accessibility,Low,"SR,Cognitive,Colour-blind","PC notes L66;PB notes L21",Need for design that offers a quick distinction between tasks and searches for them swiftly,false
+6,Creating a new list,stories.md#S6,Job story,Acting on the intention to make a new list of tasks,Usability,Low,"Cognitive,Memory","PC notes L21",Need for design that encourages a return to the list,false

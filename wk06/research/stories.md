@@ -1,6 +1,6 @@
 # Job Stories — Week 6 Needs-Finding
 
-## Story S1: Filter Persistence
+## Story S1: Sunny weather
 **Situation**: When I am using a task manager app in bright sunlight
 **Motivation**: I want it to be able to adjust itself to appropriate settings for my situation
 **Outcome**: so that I don't have to waste time doing it myself 
@@ -8,66 +8,65 @@
 **Evidence**: Particiapnt A (notes L58)
 **Inclusion risk**: Sight impairment, lack of contrast within the application
 **Type**: Job story
+**WCAG**: 1.4.3 Contrast (Minimum, AA) — provididng control to the user that allows them to choose a specifc contrast
 
 ---
 
-## Story S2: Confirmation Feedback
-**Situation**: When I submit a form (add task, edit task, delete task)
-**Motivation**: I want immediate, explicit confirmation that the action succeeded
-**Outcome**: So I can trust the interface without refreshing to verify
-**Underlying need**: Because uncertainty about save status causes anxiety and inefficient workarounds (page reload)
+## Story S2: Easy usage without a mouse
+**Situation**: When I work without a mouse,
+**Motivation**: I want accessibilty friendly shortcuts
+**Outcome**: so that I can be less stressed while working
+**Underlying need**: because it makes my task a lot easier to complete.
 
-**Evidence**: Participant A (notes L12), Participant B (notes L8)
-**Inclusion risk**: Cognitive, screen reader (if confirmation not announced), low digital literacy
-**Type**: Job story
-
----
-
-## Story S3: Full Keyboard Access
-**Situation**: When my mouse/trackpad is unavailable (broken hardware, RSI flare-up, preference)
-**Motivation**: I want to access all features using only Tab, Enter, Space, and arrow keys
-**Outcome**: So I can complete tasks without being excluded
-**Underlying need**: Because reliance on pointing device excludes people with motor impairments or temporary injuries
-
-**Evidence**: Participant A (notes L20)
-**Inclusion risk**: Motor impairment, RSI, temporary disability, keyboard-only preference
+**Evidence**: Participant A (notes L46), Participant B (notes L43)
+**Inclusion risk**: Lack of shortcuts for specific conditions, visual impairment, lack of experience with shortcuts
 **Type**: Job story
 **WCAG**: 2.1.1 Keyboard (A), 2.1.3 Keyboard (No Exception, AAA)
 
 ---
 
-## Story S4: High Contrast
-**Situation**: When I'm working in bright sunlight or have low vision
-**Motivation**: I want text to have sufficient contrast against background
-**Outcome**: So I can read task titles and buttons without straining
-**Underlying need**: Because low contrast creates situational disability (sunlight) or permanent exclusion (low vision)
+## Story S3: Task completion
+**Situation**: When complete a task and cross it off on a list,
+**Motivation**: I want to the item to disappear
+**Outcome**: so that I can reassure myself that my workload is smaller 
+**Underlying need**: because it will make feel anxious about the workload otherwise.
 
-**Evidence**: Participant A (notes L28)
-**Inclusion risk**: Low vision, colour-blindness, situational (bright light)
-**Type**: Job story
-**WCAG**: 1.4.3 Contrast (Minimum, AA) — 4.5:1 for normal text
-
----
-
-## Story S5: Progress Visualisation
-**Situation**: When I'm managing a long task list (15+ items)
-**Motivation**: I want to see completion progress (e.g., "8/12 done this week")
-**Outcome**: So I can feel motivated and track productivity
-**Underlying need**: Because invisible progress reduces motivation and makes it hard to assess workload
-
-**Evidence**: Participant A (notes L35), Participant B (notes L15)
-**Inclusion risk**: Cognitive, ADHD (executive function support)
+**Evidence**: Participant B (notes L21, L66)
+**Inclusion risk**: Anxiety surrounding workload, time mismanagement
 **Type**: Job story
 
 ---
 
-## Story S6: Persistent Error Messages (No-JS)
-**Situation**: When JavaScript is disabled (corporate firewall, data-saving mode) and I submit invalid data
-**Motivation**: I want error messages to persist after page reload
-**Outcome**: So I can understand what went wrong and correct it
-**Underlying need**: Because ephemeral error messages (lost on redirect) require perfect memory or multiple submission attempts
+## Story S4: Academic organisation
+**Situation**: When I have important deadlines coming up,
+**Motivation**: I want to be able to keep track of them
+**Outcome**: so that I don't receive any penalties
+**Underlying need**: because it will have a huge negative effect in me academically.
 
-**Evidence**: Inferred from Lab 1 no-JS testing; no explicit interview mention (add if time)
-**Inclusion risk**: Cognitive, screen reader (needs page-level error summary)
-**Type**: Pain point (internally identified)
-**WCAG**: 3.3.1 Error Identification (A), 3.3.3 Error Suggestion (AA)
+**Evidence**: Participant B (notes L10, L32)
+**Inclusion risk**: Difficulty keepting track of priorities, non-academic committments
+**Type**: Job story
+
+---
+
+## Story S5: Progress visualisation
+**Situation**: When I look for a task in a list,
+**Motivation**: I want to not spend so much time looking for it
+**Outcome**: so that I don't waste time
+**Underlying need**: because I need to get my tasks done quickly.
+
+**Evidence**: Participant C (notes L66), Participant B (notes L21)
+**Inclusion risk**: Cognitive
+**Type**: Job story
+
+---
+
+## Story S6: Creating a list
+**Situation**: When I make the intention to make a to-do list,
+**Motivation**: I want to not feel like it is a daunting task
+**Outcome**: so that I don't procrastinate on doing them
+**Underlying need**: because these tasks are of high priority.
+
+**Evidence**: Partcipant C (notes L21)
+**Inclusion risk**: Procrastination habits, possible ADHD
+**Type**: Job story
